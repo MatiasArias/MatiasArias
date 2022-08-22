@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatiasArias
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on good people
 - 📫 How to reach me: matiasarias384@gmail.com
 
 <!---
